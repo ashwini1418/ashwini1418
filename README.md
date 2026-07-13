@@ -137,7 +137,7 @@ Currently  :  SWE Tuning Bill, Jaipur
 > session terminated
 > thanks for visiting _
 ```
-<img src="img/image1.png" width="80" />
+<img src="1000419456.png" width="130" />
 &nbsp;
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
 
