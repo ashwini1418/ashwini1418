@@ -124,8 +124,7 @@ Currently  :  SWE Tuning Bill, Jaipur
 <div align="center">
 
 ```
-> session terminated
-> thanks for visiting _
+> session terminated :)
 ```
 <img src="1000419456.png" width="130" />
 &nbsp;
