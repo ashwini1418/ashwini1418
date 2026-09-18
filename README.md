@@ -1,5 +1,5 @@
 <div align="center">
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashwini+Khodre+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Blockchain+%7C+.NET+%7C+TypeScript" alt="Typing SVG" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashwini+Khodre+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;LLM-RAG+%7C+Blockchain+%7C+TypeScript" alt="Typing SVG" />
 
   
 <p> <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20Rajasthan-01696F?style=flat-square&logo=googlemaps&logoColor=white" /> <img src="https://img.shields.io/badge/Focus-Backend%20%26%20web3-0c4e54?style=flat-square&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Open%20To-Collaborations-28a745?style=flat-square&logo=handshake&logoColor=white" /> </p> </div>
